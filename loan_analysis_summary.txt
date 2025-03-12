@@ -1,0 +1,31 @@
+
+    -----------------------------------------------------------------------------------
+                Key Insights from JIRA Financial Services Loan Data Analysis:
+    -----------------------------------------------------------------------------------
+    
+    1. Loan Portfolio Overview:
+       - Total amount loaned: £40,938.00
+       - Average loan amount: £148.87
+       - Average loan term: 333.00 months
+       - Loan amount range: £9.00 to £392.00
+    
+    2. Application Statistics:
+       - Total applications analyzed: 275
+       - Approved applications: 185 (67.27%)
+       - Rejected applications: 90 (32.73%)
+    
+    3. Demographic Insights:
+       - Male applicants: 225 (81.82%)
+       - Female applicants: 50 (18.18%)
+       - Self-employed applicants: 38 (13.82%)
+       - Self-employed approval rate: 14.05%
+    
+    4. Property Distribution:
+       - Urban properties: 86 (31.27%)
+       - Semiurban properties: 101 (36.73%)
+       - Rural properties: 88 (32.00%)
+    
+    5. Income Statistics:
+       - Average applicant income: £4,842.51
+       - Income standard deviation: £3,350.03
+    
